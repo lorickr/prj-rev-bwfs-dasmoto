@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	font-family: Helvetica;
+}
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	background-image: url("../images/pattern.jpg");
+	background-size: cover
+}
+h2 {
+	font-weight: bold;
+	color: white;
+	font-size: 32px;
+}
+b {
+	font-weight: bold;
+	color: blue;
+}
